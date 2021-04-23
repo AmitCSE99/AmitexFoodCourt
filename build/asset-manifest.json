@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/AmitexFoodCourt/static/css/main.df0c65f3.chunk.css",
+    "main.js": "/AmitexFoodCourt/static/js/main.7c8c0596.chunk.js",
+    "main.js.map": "/AmitexFoodCourt/static/js/main.7c8c0596.chunk.js.map",
+    "runtime-main.js": "/AmitexFoodCourt/static/js/runtime-main.eeff1b32.js",
+    "runtime-main.js.map": "/AmitexFoodCourt/static/js/runtime-main.eeff1b32.js.map",
+    "static/js/2.b5b4d3e3.chunk.js": "/AmitexFoodCourt/static/js/2.b5b4d3e3.chunk.js",
+    "static/js/2.b5b4d3e3.chunk.js.map": "/AmitexFoodCourt/static/js/2.b5b4d3e3.chunk.js.map",
+    "index.html": "/AmitexFoodCourt/index.html",
+    "static/css/main.df0c65f3.chunk.css.map": "/AmitexFoodCourt/static/css/main.df0c65f3.chunk.css.map",
+    "static/js/2.b5b4d3e3.chunk.js.LICENSE.txt": "/AmitexFoodCourt/static/js/2.b5b4d3e3.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/AmitexFoodCourt/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eeff1b32.js",
+    "static/js/2.b5b4d3e3.chunk.js",
+    "static/css/main.df0c65f3.chunk.css",
+    "static/js/main.7c8c0596.chunk.js"
+  ]
+}
